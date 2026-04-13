@@ -55,7 +55,7 @@ Autores: Luiz Sabiano F. Medeiros
 
 $ pip install pip==24.0
 
-$ pip install -i requirements.txt
+$ pip install -r requirements.txt
 
 
 
