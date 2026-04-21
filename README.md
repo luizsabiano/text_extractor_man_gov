@@ -1,4 +1,4 @@
-# ManGov_text_extractor
+# Extrator de texto para manuais normativos governamentais
 Extrai texto dos manuais normativos governamentais e persiste no banco de dados vetorial
 
 
